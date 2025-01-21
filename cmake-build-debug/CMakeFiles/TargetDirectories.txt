@@ -1,0 +1,3 @@
+/Users/nunofernandes/Desktop/pacman/cmake-build-debug/CMakeFiles/pacman.dir
+/Users/nunofernandes/Desktop/pacman/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nunofernandes/Desktop/pacman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
